@@ -48,3 +48,4 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ![jk wave](https://github.com/user-attachments/assets/e94fb7d3-1b5c-44a2-a485-4cb9f5951521)
 
 **RESULTS**
+Thus the JK flipflop is implemented and verified.
